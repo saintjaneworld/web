@@ -1,0 +1,22 @@
+body{
+    font-family: "East Sea Dokdo", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+header {
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.2)), url(images/camino.jpeg);
+    background-size: cover;
+    background-position: center top;
+    background-attachment: fixed;
+}
+
+.nav-link {
+  font-size: 20px; /* 예시로 폰트 사이즈를 18px로 설정 */
+}
+
+.navbar-nav {
+  margin-bottom: 20px; /* 예시로 마진을 10px로 설정 */
+}
+
+  
